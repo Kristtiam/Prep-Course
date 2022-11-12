@@ -1,0 +1,8 @@
+- Variables: Las variables son como un un frasco en donde puedes almacenar 1 solo elemnto y este puede cambiar segun quieras o segun como este delcarado.
+- Strings: Los strings son todas las cadenas de texto que se pueden identificar con "" o ''
+- Funciones:
+* Argumentos: Los argumentos es todo aquello que le damos como una variable debtro de los parentesis a una funcion y esta la podemos usar dentro de la funcion.
+* return: Es la declaracion que podemos usar en una funcion para que nos devuelva lo que especificamos dentro de una funcion 
+- Declaraciones:
+* 'if' : Es la declaracion que podemos usar para decir si es verdadero o falso algo que este dentro de la funcion.
+Booleanos: Es el valor que se representa con un 'true' o 'false'.
